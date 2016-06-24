@@ -6,6 +6,8 @@ import android.view.*;
 import android.widget.*;
 import java.util.*;
 
+// helloz!
+
 public class FunFactsActivity extends AppCompatActivity {
 
     @Override
