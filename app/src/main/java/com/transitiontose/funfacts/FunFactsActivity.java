@@ -10,6 +10,7 @@ import java.util.*;
 // skabotter!
 // bannot!
 // ebop!
+// skarot?
 public class FunFactsActivity extends AppCompatActivity {
 
     @Override
