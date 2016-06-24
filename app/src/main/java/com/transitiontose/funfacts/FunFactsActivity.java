@@ -8,6 +8,7 @@ import java.util.*;
 // yelloz!
 // helloz!
 // skabotter!
+// bannot!
 public class FunFactsActivity extends AppCompatActivity {
 
     @Override
