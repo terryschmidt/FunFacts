@@ -7,6 +7,7 @@ import android.widget.*;
 import java.util.*;
 // yelloz!
 // helloz!
+// skabotter!
 public class FunFactsActivity extends AppCompatActivity {
 
     @Override
