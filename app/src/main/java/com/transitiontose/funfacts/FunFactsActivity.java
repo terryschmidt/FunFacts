@@ -11,6 +11,7 @@ import java.util.*;
 // bannot!
 // ebop!
 // skarot?
+// nabopper
 public class FunFactsActivity extends AppCompatActivity {
 
     @Override
